@@ -3,7 +3,7 @@ ProjectPRADA
 
 Point of sale for a grocery
 
-**Team Members**
+**Team Members** <br>
 Anjana Kavinda <br>
-Saumya Wickramarathne
-Chanuga Jayathilaka
+Saumya Wickramarathne<br>
+Chanuga Jayathilaka<br>
