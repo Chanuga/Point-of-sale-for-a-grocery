@@ -1,7 +1,4 @@
-# ProjectPRADA
-ProjectPRADA
-
-Point of sale for a grocery
+## Point of sale for a grocery
 
 **Team Members** <br>
 Anjana Kavinda <br>
