@@ -2,6 +2,6 @@
 
 **Team Members** <br>
 
-Anjana Kavinda <br>
-Saumya Wickramarathne<br>
-Chanuga Jayathilaka<br>
+>Anjana Kavinda <br>
+>Saumya Wickramarathne<br>
+>Chanuga Jayathilaka<br>
